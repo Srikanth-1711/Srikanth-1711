@@ -1,68 +1,59 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Srikanth</h1>
-<h3 align="center">AI Engineer @ Cisco | EEE Researcher | AI Agent Architect</h3>
+<h3 align="center">AI Engineer @ Cisco | EEE Researcher | Agentic AI Specialist</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srikanth-1711&theme=tokyonight&column=4" alt="srikanth-1711" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth-1711&theme=tokyonight" alt="srikanth-1711" /></a>
 </p>
 
 ---
 
-### 🚀 Professional Profile
-- **Current Role:** AI Engineer at **Cisco** (via Adecco), building enterprise-grade AI solutions.
-- **Expertise:** Architecting **RAG Pipelines** and **Multi-Agent Systems** using LangGraph and LlamaIndex.
-- **Academic:** 2024 EEE Graduate & Published Researcher in **EV Optimal Scheduling**.
-
-### 📚 Featured Publication
-> **[Minimization of Real Power Losses & Voltage Deviations in Distribution Systems](http://hbrppublication.com/OJS/index.php/JOC/article/view/5278)**
-> *Journal of Control and Instrumentation (2024)* — Solving complex distribution problems with mathematical optimization.
+### 🚀 Professional Summary
+- **Current:** AI Engineer at **Cisco** (via Adecco), focused on enterprise AI Agents.
+- **Experience:** 1-year Apprenticeship at **Cisco** (Nov 2024 - Nov 2025).
+- **Background:** Full Stack Dev at **BeeData Technologies** | 2024 EEE Graduate.
+- **Research:** Published Author in EV Distribution Systems ([View Paper](http://hbrppublication.com/OJS/index.php/JOC/article/view/5278)).
 
 ---
 
-### 🤖 Artificial Intelligence & Agentic Workflows
+### 🤖 AI, Agents & Data Science
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=green" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Agentic_AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibmwatson&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="45" height="45"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/ibm_watson/ibm_watson-icon.svg" alt="watson" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
 </p>
 
-### 📊 Data Science & Backend
+### 💻 Development & AI Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" alt="cursor" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="copilot" width="45" height="45"/>
 </p>
 
-### 🛠️ DX & AI Coding Tools
+### 🌐 Infrastructure & Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-8C4FFF?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### 🌐 Networking & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-CCNA-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
 </p>
 
 ---
 
-### 📈 GitHub Statistics
+### 📊 GitHub Analysis
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srikanth-1711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-1711&layout=compact&theme=tokyonight" />
 </p>
 
-### 📫 Let's Connect
+### 📫 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/lakshmi-srikanth-/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lakshmisrikanthpolavarapu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/shrikanthh_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lakshmi-srikanth-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shrikanthh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
